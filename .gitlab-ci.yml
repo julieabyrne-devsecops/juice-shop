@@ -6,6 +6,4 @@ variables:
   TEST_DISABLED: "true"
   DAST_DISABLED: "true"
   GITLAB_TOKEN: glpat-XXXXXXXXXXXXXXXXXpjR
-  GITLAB_TOKEN: glpat-XXXXXXXXXXXXXXXXXpXX
-  #bogus GitLab PATs
 
